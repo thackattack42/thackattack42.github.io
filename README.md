@@ -45,4 +45,8 @@ https://github.com/user-attachments/assets/7cb6593c-056d-4d17-9eb7-106e5a85b2d5
 https://github.com/user-attachments/assets/62b85dce-4a3b-4934-9dd1-c6e6d4a8d492
 
 
+<<<<<<< HEAD
 After I got crouching working, I wanted to setup a slide for when the player presses crouch while they're sprinting. This was a nother one of the mechanics I thought would be pretty tough but ended up being easier than I thought. I setup a branch in the crouch function to see if the player was sprinting or not and then I basically did the same thing I did with crouch except I didn't reduce the players speed quite as much and played a sliding animation instead of the crouch. Visually it looks like the player is sliding but in reality they are just crouching but moving faster than a standard crouch. At the end of the sliding animaiton, the player then gets set to be crouching and slows down to normal crouching speed.
+=======
+After I got crouching working, I wanted to setup a slide for when the player presses crouch while they're sprinting. This was a nother one of the mechanics I thought would be pretty tough but ended up being easier than I thought. I setup a branch in the crouch function to see if the player was sprinting or not and then I basically did the same thing I did with crouch except I didn't reduce the players speed quite as much and played a sliding animation instead of the crouch. Visually it looks like the player is sliding but in reality they are just crouching but moving faster than a standard crouch. At the end of the sliding animaiton, the player then gets set to be crouching and slows down to normal crouching speed.
+>>>>>>> 1ea099d67dc5c0d9b49d1f63f5fd1b32b96fa99c
