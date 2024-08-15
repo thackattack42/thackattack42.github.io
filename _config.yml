@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chase Thacker's Page"
 title_separator          : "-"
 name                     : &name "Chase Thacker"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "thackattack42/thackattack42.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chase Thacker"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Winter Park, FL"
