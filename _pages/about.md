@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Changed Title"
+title: "Changed Title2"
 author_profile: true
 redirect_from: 
   - /about/
