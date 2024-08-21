@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Game Development, Full Sail University, 2024
+* A.S. in Programming and Analysis, Santa Fe College, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Current: Lead Programmer
+  * Otisco Studios
+  * Duties includes: Designing and Implementing gameplay mechanics, gameplay testing, bug fixing.
+  * Supervisor: Derek Wicks
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2020 - July 2022: Advanced Repair Agent
+  * Best Buy Geek Squad
+  * Duties included: 
+  * Supervisor: Ryan Van De Water
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2019 - October 2020: Consultation Agent
+  * Best Buy Geek Squad
+  * Duties included: 
+  * Supervisor: Ryan Van De Water
   
 Skills
 ======
