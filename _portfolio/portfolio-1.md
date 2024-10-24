@@ -1,6 +1,6 @@
 ---
 title: "Ascendants 2099"
-excerpt: "A fast-paced arena FPS game set in the year 2099. Cyberpunk androids are trying to control humans while Solarpunk soldiers are trying to take down the android regime. <br/><img src='/images/500x300.png'>"
+excerpt: "A fast-paced arena FPS game set in the year 2099. Cyberpunk androids are trying to control humans while Solarpunk soldiers are trying to take down the android regime. <br/><img src='/images/Ascendants-light-blue-with-glow.webp'>"
 collection: portfolio
 ---
 
