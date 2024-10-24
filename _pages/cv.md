@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* May 2024 - Current: Lead Programmer
+* May 2024 - October 2024: Lead Programmer
   * Otisco Studios
   * Duties includes: Designing and Implementing gameplay mechanics, gameplay testing, bug fixing.
   * Supervisor: Derek Wicks
