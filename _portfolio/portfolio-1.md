@@ -11,3 +11,9 @@ collection: portfolio
 - Duration: May 2024 - October 2024
 - Team Size: 8-10
 - Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
+
+{{< carousel ratio="16x9" class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="img/coffee.jpg" caption="slide 1" >}}
+  {{< img src="img/phone.jpg" caption="slide 2" >}}
+  {{< img src="img/dunes.jpg" caption="slide 3" >}}
+{{< /carousel >}}
