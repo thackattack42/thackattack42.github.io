@@ -4,4 +4,6 @@ excerpt: "A fast-paced arena FPS game set in the year 2099. Cyberpunk androids a
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://youtu.be/FyOAyGaxZUE
+
+Platform | PC      Engine | Unreal Engine 5.4      Duration May 2024 - October 2024      Team Size | 8-10      Role | Lead Programmer, Weapon Mechanics, Movement Mechanics
