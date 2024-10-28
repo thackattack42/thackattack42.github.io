@@ -6,4 +6,4 @@ collection: portfolio
 
 [![Alpha Gameplay](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FFyOAyGaxZUE)](https://youtu.be/FyOAyGaxZUE)
 
-Platform: PC      Engine: Unreal Engine 5.4      Duration: May 2024 - October 2024      Team Size: 8-10      Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
+Platform: PC  Engine: Unreal Engine 5.4  Duration: May 2024 - October 2024  Team Size: 8-10  Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
