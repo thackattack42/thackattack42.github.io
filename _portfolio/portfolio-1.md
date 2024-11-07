@@ -11,3 +11,11 @@ collection: portfolio
 - Duration: May 2024 - October 2024
 - Team Size: 8-10
 - Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
+
+**Responsibilities**
+
+- Helped design and implement smooth movement mechanics such as sliding, wall running, mantling and more to create a fun way for the player to navigate the levels using state machines, anim graphs, and blueprints.
+- Implemented weapon mechanics using a pre-built system and adapted it to work with our character by using IK rigs to lock the left hand to the gun and implementing dynamic recoil that is fully adjustable.
+- Assisted in creating the "gameloop" and how to make the game fun by implementing an oxygen system, abilities system, and various gamemodes.
+
+**Movement Machanics**
