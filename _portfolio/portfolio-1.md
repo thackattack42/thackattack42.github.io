@@ -12,10 +12,17 @@ collection: portfolio
 - Team Size: 8-10
 - Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
 
-**Responsibilities**
+## Responsibilities
 
 - Helped design and implement smooth movement mechanics such as sliding, wall running, mantling and more to create a fun way for the player to navigate the levels using state machines, anim graphs, and blueprints.
 - Implemented weapon mechanics using a pre-built system and adapted it to work with our character by using IK rigs to lock the left hand to the gun and implementing dynamic recoil that is fully adjustable.
 - Assisted in creating the "gameloop" and how to make the game fun by implementing an oxygen system, abilities system, and various gamemodes.
 
-**Movement Machanics**
+## Movement Mechanics
+
+The first topic I'm going to be explaining is Ascendants 2099's movement system and how we implemented it. The goal was to create fun, fluid movement mechanics that enhanced the user's gameplay and made traversing the maps unique. The biggest inspiration
+for the movement was games like Titanfall that have dynamic movement to allow players the freedom to move around in a way unique to them. Some of the biggest challenges we faced were figuring out how to implement wall running and sliding in a smooth and dynamic way.
+
+### Wall Running
+
+
