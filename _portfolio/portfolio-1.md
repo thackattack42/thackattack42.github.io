@@ -29,4 +29,8 @@ Wall running was the first big hurdle that we needed to figure out since we beli
 
 ### Sliding
 
-The next mechanic we wanted to include was the ability to slide behind cover, under gaps, and anywhere else you can think of to give you an edge in gun fights. Sliding was much easier to figure out compared to wall running since we already had crouching and sprinting functionality so we basically just had to combine the two to create a slide. 
+The next mechanic we wanted to include was the ability to slide behind cover, under gaps, and anywhere else you can think of to give you an edge in gun fights. Sliding was much easier to figure out compared to wall running since we already had crouching and sprinting functionality so we basically just had to combine the two to create a slide. The biggest thing I wanted to figure out was getting the player to slow down over the duration of the slide so it looked a bit more realistic. The way I was able to achieve this was by using a simple timeline that interpolated the player's speed over the duration of the slide until it reached the speed we wanted.
+
+## Weapon Mechanics
+
+The next major gameplay system we needed to add was our weapon mechanics.
