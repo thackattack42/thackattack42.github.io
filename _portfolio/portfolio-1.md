@@ -35,8 +35,6 @@ The next mechanic we wanted to include was the ability to slide behind cover, un
 
 The next major gameplay system we needed to add was our weapon mechanics.
 
-
-<video width="320" height="240" controls loop="" muted="" autoplay=""?
-  <source scr="https://github.com/thackattack42/thackattack42.github.io/raw/refs/heads/master/images/test.mp4">
-</video>
+[!Watch the video](https://raw.githubusercontent.com/thackattack42/thackattack42.github.io/master/images/thumbnail.png)]
+(https://raw.githubusercontent.com/thackattack42/thackattack42.github.io/master/images/test.mp4)
 
