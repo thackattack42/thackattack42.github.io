@@ -37,7 +37,7 @@ The next major gameplay system we needed to add was our weapon mechanics.
 
 
 
-<video src="https://github.com/user-attachments/assets/28d71267-6abf-4525-8b98-81e48bc541d9" controls="controls" style="max-width: 730px;">
+<video src="" controls="controls" style="max-width: 730px;">
 </video>
 
 
