@@ -34,3 +34,9 @@ The next mechanic we wanted to include was the ability to slide behind cover, un
 ## Weapon Mechanics
 
 The next major gameplay system we needed to add was our weapon mechanics.
+
+
+
+
+https://github.com/user-attachments/assets/f33d26a1-932e-4806-90d8-20b3d230bd6d
+
