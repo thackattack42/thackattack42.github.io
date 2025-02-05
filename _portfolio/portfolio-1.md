@@ -33,7 +33,7 @@ The next mechanic we wanted to include was the ability to slide behind cover, un
 
 ## Weapon Mechanics
 
-The next major gameplay system we needed to add was our weapon mechanics.
+The next major gameplay system we needed to add was our weapon mechanics. This was by far the most complex and time-comsuming system we implemented. We ended up reiterating and refactoring the weapon system at least 3 or 4 times before we finally got it to a place we were happy with. 
 
 
 
