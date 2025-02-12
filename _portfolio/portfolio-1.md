@@ -8,7 +8,7 @@ collection: portfolio
 
 - Platform: PC
 - Engine: Unreal Engine 5.4
-- Duration: May 2024 - October 2024
+- Duration: May 2024 - Current
 - Team Size: 8-10
 - Role: Lead Programmer, Weapon Mechanics, Movement Mechanics
 
