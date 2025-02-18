@@ -27,6 +27,10 @@ for the movement was games like Titanfall that have dynamic movement to allow pl
 
 Wall running was the first big hurdle that we needed to figure out since we believed it was the most complex and also one of the central mechanics we wanted implemented. We started by doing research into how other games like Titanfall had implemented wall running. We came across a few YouTube tutorials on how it was done but none of it was exactly what we were looking for. I ended up finding a project on GitHub that had a lot of the functionality we were looking for so what I decided to do was import most of the code and then change different parts of it to fit closer to our vision of how we wanted it to function. After testing out the imported mechanics, we identified what needed to be tweaked such as the duration of the wall run, being able to jump off a wall onto another and continue running, being able to mantle shorter walls and obstacles, and many other changes were made to customize the code to fit our game. After making the necessary changes, we finally had a wall run we were happy with and could then move on to other movement mechanics.
 
+<video src=""https://github.com/user-attachments/assets/4176f3b9-2cde-4e48-93d0-36a7a3bca6ad controls="controls" style="max-width: 730px;">
+</video>
+
+
 ### Sliding
 
 The next mechanic we wanted to include was the ability to slide behind cover, under gaps, and anywhere else you can think of to give you an edge in gun fights. Sliding was much easier to figure out compared to wall running since we already had crouching and sprinting functionality so we basically just had to combine the two to create a slide. The biggest thing I wanted to figure out was getting the player to slow down over the duration of the slide so it looked a bit more realistic. The way I was able to achieve this was by using a simple timeline that interpolated the player's speed over the duration of the slide until it reached the speed we wanted.
@@ -34,9 +38,4 @@ The next mechanic we wanted to include was the ability to slide behind cover, un
 ## Weapon Mechanics
 
 The next major gameplay system we needed to add was our weapon mechanics. This was by far the most complex and time-comsuming system we implemented. We ended up reiterating and refactoring the weapon system at least 3 or 4 times before we finally got it to a place we were happy with. I started with a simple two-weapon system using an array of weapon objects that allowed the player to switch between the primary and secondary weapon with input from the user. After that we added more variables to the weapon objects to make each weapon more unique by being able to adjust magazine size, recoil, fire type, etc. Now that we had the weapons set up, we needed them to actually fire. To accomplish this, we originally tried using a line trace from a socket on the barrel of the weapon but found out that unless the weapon was placed perfectly in the player's hand, the bullets would eventually veer off of where the player was aiming. So instead of spenidng a ton of time perfectly placing each weapon socket on the players hands, we decided to have the line trace come out of the first-person camera since it was already looking straight in the direction we wanted the bullet to fire. Eventually we were able to tune the weapons to work how we wanted them and be able to change almost every aspect of how they work through variables.
-
-
-<video src="https://github.com/user-attachments/assets/d2040c31-b396-4362-9869-4fb517109ff2" controls="controls" style="max-width: 730px;">
-</video>
-
 
