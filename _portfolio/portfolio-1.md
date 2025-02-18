@@ -27,7 +27,7 @@ for the movement was games like Titanfall that have dynamic movement to allow pl
 
 Wall running was the first big hurdle that we needed to figure out since we believed it was the most complex and also one of the central mechanics we wanted implemented. We started by doing research into how other games like Titanfall had implemented wall running. We came across a few YouTube tutorials on how it was done but none of it was exactly what we were looking for. I ended up finding a project on GitHub that had a lot of the functionality we were looking for so what I decided to do was import most of the code and then change different parts of it to fit closer to our vision of how we wanted it to function. After testing out the imported mechanics, we identified what needed to be tweaked such as the duration of the wall run, being able to jump off a wall onto another and continue running, being able to mantle shorter walls and obstacles, and many other changes were made to customize the code to fit our game. After making the necessary changes, we finally had a wall run we were happy with and could then move on to other movement mechanics.
 
-<video src=""https://github.com/user-attachments/assets/4176f3b9-2cde-4e48-93d0-36a7a3bca6ad controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/4176f3b9-2cde-4e48-93d0-36a7a3bca6ad" controls="controls" style="max-width: 730px;">
 </video>
 
 
